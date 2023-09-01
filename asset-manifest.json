@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio-Website/static/css/main.e04b096f.css",
+    "main.js": "/Personal-Portfolio-Website/static/js/main.b7ce5a49.js",
+    "static/media/chat-app-ss.png": "/Personal-Portfolio-Website/static/media/chat-app-ss.9e0251ff79e8968e3887.png",
+    "static/media/recipe-app-ss.png": "/Personal-Portfolio-Website/static/media/recipe-app-ss.6f246e13fcbd2c0bbf6a.png",
+    "static/media/note-app-ss.png": "/Personal-Portfolio-Website/static/media/note-app-ss.2582b643684c207cbdd9.png",
+    "static/media/Jyoti_Gurung_Resume.pdf": "/Personal-Portfolio-Website/static/media/Jyoti_Gurung_Resume.992d8a0487a9d3bbd458.pdf",
+    "index.html": "/Personal-Portfolio-Website/index.html",
+    "main.e04b096f.css.map": "/Personal-Portfolio-Website/static/css/main.e04b096f.css.map",
+    "main.b7ce5a49.js.map": "/Personal-Portfolio-Website/static/js/main.b7ce5a49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04b096f.css",
+    "static/js/main.b7ce5a49.js"
+  ]
+}
