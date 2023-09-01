@@ -1,0 +1,99 @@
+header {
+    height: 100vh;
+    padding-top: 8rem;
+    overflow: hidden;
+    
+    
+}
+
+.header_container {
+    text-align: center;
+    height: 100%;
+    position: relative;
+    
+}
+
+.container .about_me {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    
+    color: #f0f0f0;
+  }
+
+  .about_me h2 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    color: #e9d35b;
+    height: 50px;
+    padding-bottom: 5rem;
+  }
+  
+  .about_me .prompt {
+    width: 40%;
+    font-size: 20px;
+  }
+
+
+/* ====== CTA ======== */
+.cta {
+  margin-top: 2.5rem;  
+  display: flex;
+  gap: 1.3rem;
+  justify-content: center;
+}
+
+/* ====== Header Socials ======== */
+.header_socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 0.8rem;
+    margin-top: 2rem; 
+    font-size: 50px; 
+    position: relative;
+}
+
+
+
+
+.scroll_down {
+    position: absolute;
+    right: -2.3rem;
+    bottom: 5rem;
+    transform: rotate(90deg);
+    font-weight: 200;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+
+/* =====Media Queries (Medium Devices) ====== */
+@media screen and (max-width: 1024px) {
+   header {
+    height: 68vh;
+   }
+}
+
+/* =====Media Queries (Smaller Devices) ====== */
+@media screen and (max-width: 600px) {
+    header {
+        height: 100vh;
+    }
+
+    .cta { 
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.8rem;
+      }
+        .scroll_down {
+            display: none;
+        }
+    
+}
+
+  
