@@ -8,7 +8,7 @@ export const ProjectList = [
     image: Cavechat_Img,
     title: "Cave Chat App",
     description:
-      "A real-time chat application utilizing React, Firestore Database, Firebase storage, JavaScript,and Saas, providing users with seamless communication capabilities. Firebase Authentication to enable secure user registration and login. Real-time data synchronization with Firebase Firestore.",
+      "A real-time full stack chat application utilizing React, Firestore Database, Firebase storage, JavaScript,and Saas, providing users with seamless communication capabilities. Firebase Authentication to enable secure user registration and login. Real-time data synchronization with Firebase Firestore.",
     github: "https://github.com/Extacy77/Cave-Chat",
     demo: "https://cave-chat.web.app",
   },
@@ -16,11 +16,12 @@ export const ProjectList = [
   {
     id: 1,
     image: Noteapp_Img,
-    title: "React Quick Note App",
+    title: "React Notes App",
     description:
-      "Fast and user-friendly note taking app with React, enabling users to create, organize, and manage their notes. Implemented CRUD operations. A dynamic search functionality, enabling users to quickly find specific notes by keywords. React components to build a responsive and visually appealing interface.",
+      "Full stack React Node App. Fast and user-friendly note taking app. Implemented CRUD operations. A dynamic search functionality, enabling users to quickly find specific notes by keywords. Utilizes Express.js and Node.js backend with Axios for communication, seamlessly integrated MongoDB for persistent user notes across sessions.
+",
     github: "https://github.com/Extacy77/React-Quick-Notes-App",
-    demo: "https://extacy77.github.io/React-Quick-Notes-App/",
+    demo: "https://extacy77.github.io/Node_Fullstack_Notes_App/",
   },
 
   {
